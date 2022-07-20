@@ -101,9 +101,6 @@ Figure 1. ssh connection to Nimbus Instance via MobaXterm
 **Step 5: Transfer your data to your Instance that you want to analyse**
 
 
-## **How to transfer data to my Nimbus Instance?**
-
-
 
 **Data can be transferred back and forth between your ‘local computer’ and ‘Instance’ using one of the following options:**
 
@@ -115,6 +112,7 @@ Figure 1. ssh connection to Nimbus Instance via MobaXterm
 
 
 - a software, for example, WinSCP, FileZila etc.
+
 
 
 ## **How to use FileZilla for transferring data?**
