@@ -66,7 +66,7 @@ https://support.pawsey.org.au/documentation/display/US/Access+and+Use+Your+Nimbu
 
 
 
-- See the MobaXterm screenshot (Fig. 1)
+- See the MobaXterm screenshot below (Fig. 1)
 
 
 - Enter remote host as
@@ -126,5 +126,5 @@ You need to download it and log in into it with the following details:
 > Host: same as Step 4, Username and Password: same as your Pawsey account, Port: 22, Passphrase: the one that you have generated with Putty at Step 4
 
 
-
+*** The End***
 
