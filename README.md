@@ -77,7 +77,7 @@ ssh ubuntu@Public_external_IP_for_your_instance
 ```
 
 
-- Enter username. The username that you use to log in into your Nimbus Instance website (dashboard)
+- Tick the ‘Specify username’ box. It is the username that you use to log in into your Nimbus Instance website (dashboard)
 
 
 
