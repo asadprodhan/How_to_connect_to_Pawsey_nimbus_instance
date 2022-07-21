@@ -58,7 +58,7 @@ https://support.pawsey.org.au/documentation/display/US/Access+and+Use+Your+Nimbu
 - You need to add an inbound and outbound rule for Port 22 to your local computer’s firewall
 
 
-- Pay attention to your username. It is different for logging into the instance via website and for connecting to the instance via ssh
+- Pay attention to the remote host name. It is not just the IP address but ubuntu@IP_address
 
 
 
@@ -77,8 +77,11 @@ ssh ubuntu@Public_external_IP_for_your_instance
 ```
 
 
+- Enter username. The username that you use to log in into your Nimbus Instance website (dashboard)
 
-- Tick the ‘use private key’ box. Browse to your key. It is a file with ‘.ppk’ extension. Select it and press OK.
+
+
+- Tick the ‘use private key’ box. Browse to your key. It is a file with ‘.pem’ extension. Select it and press OK.
 
 
 
