@@ -129,5 +129,8 @@ You need to download it and log in into it with the following details:
 > Host: same as Step 4, Username and Password: same as your Pawsey account, Port: 22, Passphrase: the one that you have generated with Putty at Step 4
 
 
-*** The End***
+<br />
+
+
+***The End***
 
