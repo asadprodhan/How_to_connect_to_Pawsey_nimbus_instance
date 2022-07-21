@@ -81,7 +81,7 @@ ssh ubuntu@Public_external_IP_for_your_instance
 
 
 
-- Tick the ‘use private key’ box. Browse to your key. It is a file with ‘.pem’ extension. Select it and press OK.
+- Tick the ‘Use private key’ box. Browse to your key. It is a file with ‘.pem’ extension. Select it and press OK.
 
 
 
