@@ -35,8 +35,7 @@ As a part of this step, you will generate ‘a key pair’ that will be required
 Instructions are here:
 
 
-https://support.pawsey.org.au/documentation/display/US/Attach+a+Storage+Volume
-
+https://support.pawsey.org.au/documentation/display/US/Manage+a+Data+Volume#ManageaDataVolume-AttachaDataVolume
 
 
 **Step 4: Access your Instance through a ssh client**
