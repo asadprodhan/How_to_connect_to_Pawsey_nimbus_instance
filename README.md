@@ -25,7 +25,7 @@ Here, I outline the steps to get connected to Pawsey's ‘Nimbus Instance’.
 **Step 2: Log in into https://nimbus.pawsey.org.au and build an instance**
 
 
-As a part of this step, you will generate ‘a key pair’ that will be required for ssh connection via any ‘secure shell (ssh)’ client (software) (https://support.pawsey.org.au/documentation/display/US/Create+a+Nimbus+Instance) 
+As a part of this step, you will generate ‘a key pair’ that will be required for ssh connection via any ‘secure shell (ssh)’ client (software) (https://pawsey.atlassian.net/wiki/spaces/US/pages/51915082/Create+a+Nimbus+Instance) 
 
 
 
@@ -35,7 +35,7 @@ As a part of this step, you will generate ‘a key pair’ that will be required
 Instructions are here:
 
 
-https://support.pawsey.org.au/documentation/display/US/Manage+a+Data+Volume#ManageaDataVolume-AttachaDataVolume
+https://pawsey.atlassian.net/wiki/spaces/US/pages/51923113/Manage+a+Data+Volume#ManageaDataVolume-AttachaDataVolume
 
 
 **Step 4: Access your Instance through a ssh client**
